@@ -141,14 +141,15 @@ rss:
       url: "https://finance.yahoo.com/news/rssindex"
       enabled: false  # 禁用，不再显示
 
-    # 跨境电商行业资讯源（修正后可用）
-    - id: "ebrun"
-      name: "亿邦动力跨境电商"
-      url: "https://www.ebrun.com/rss.xml"
+    # 跨境电商行业资讯
+    - id: "ebrun-ec"
+      name: "亿邦动力电商频道"
+      url: "https://www.ebrun.com/rss/ec.xml"
     
-    - id: "cifnews"
-      name: "雨果网跨境电商"
-      url: "https://www.cifnews.com/rss"
+    - id: "36kr-global"
+      name: "36氪全球化频道"
+      url: "https://36kr.com/feed/column/132"
+
 
 
 
