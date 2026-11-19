@@ -145,6 +145,15 @@ rss:
     - id: "cifnews"
       name: "雨果网跨境电商"
       url: "https://www.cifnews.com/rss"
+    
+    - id: "ebrun-crossborder"
+      name: "亿邦动力跨境频道"
+      url: "https://www.ebrun.com/rss/crossborder.xml"
+    
+    - id: "36kr-crossborder"
+      name: "36氪跨境出海"
+      url: "https://36kr.com/feed/column/132"
+
 
 
     # 自定义源示例
