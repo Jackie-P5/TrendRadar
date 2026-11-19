@@ -99,9 +99,10 @@ platforms:
     - id: "zhihu"
       name: "知乎"
       expected_domain: "zhihu.com"
-    - id: "xiaohongshu"
-      name: "小红书"
-      expected_domain: "xiaohongshu.com"
+    # - id: "xiaohongshu"
+    #   name: "小红书"
+    #   expected_domain: "xiaohongshu.com"
+
 
 
 
