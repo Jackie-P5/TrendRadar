@@ -134,21 +134,41 @@ rss:
     - id: "hacker-news"
       name: "Hacker News"
       url: "https://hnrss.org/frontpage"
-      enabled: false  # 禁用，不再显示
-     
+      enabled: false
+    - id: "ruanyifeng"
+      name: "阮一峰的网络日志"
+      url: "http://www.ruanyifeng.com/blog/atom.xml"
+      enabled: false
     - id: "yahoo-finance"
       name: "雅虎财经"
       url: "https://finance.yahoo.com/news/rssindex"
-      enabled: false  # 禁用，不再显示
+      enabled: false
 
-    # 跨境电商行业资讯
-    - id: "ebrun-ec"
-      name: "亿邦动力电商频道"
-      url: "https://www.ebrun.com/rss/ec.xml"
-    
-    - id: "36kr-global"
-      name: "36氪全球化频道"
-      url: "https://36kr.com/feed/column/132"
+    # 跨境电商资讯媒体
+    - id: "amz123"
+      name: "AMZ123 跨境导航"
+      url: "https://www.amz123.com/rss"
+    - id: "cifnews"
+      name: "雨果网 跨境电商"
+      url: "https://www.cifnews.com/rss"
+    - id: "enecnews"
+      name: "亿恩网 跨境资讯"
+      url: "https://www.enecnews.com/rss"
+    - id: "ikjzd"
+      name: "跨境知道"
+      url: "https://www.ikjzd.com/rss"
+    - id: "100ec"
+      name: "网经社 电商门户"
+      url: "https://www.100ec.cn/rss"
+
+    # 跨境卖家社区/论坛
+    - id: "imiker-ask"
+      name: "知无不言 跨境问答社区"
+      url: "https://ask.imiker.com/rss"
+    - id: "chuanglan-bbs"
+      name: "创蓝社区 亚马逊论坛"
+      url: "https://bbs.chuanglan.com/rss"
+
 
 
 
